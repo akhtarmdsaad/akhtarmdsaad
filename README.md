@@ -56,6 +56,7 @@ Razorpay API • Arduino • OpenCV • Linux • GitHub • Postman
 - LinkedIn: [md-saad-akhtar](https://www.linkedin.com/in/md-saad-akhtar-969748232/)  
 - GitHub: [@akhtarmdsaad](https://github.com/akhtarmdsaad)  
 - Instagram: [mdsaad.akhtar](https://www.instagram.com/mdsaad.akhtar)
+- Leetcode: [akhtarmdsaad](https://www.leetcode.com/akhtarmdsaad)
 
 ---
 
