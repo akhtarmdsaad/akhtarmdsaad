@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md Saad Akhtar
 
-🎯 Full Stack Developer | 🛡️ Bug Bounty Hunter | 🧱 Business Builder | 🧠 Open Source Contributor | [Portfolio](https://mdsaad-portfolio.netlify.app)  
+🎯 Full Stack Developer | 🛡️ Bug Bounty Hunter | Game Developer | 🧱 Business Builder | 🧠 Open Source Contributor | [Portfolio](https://mdsaad-portfolio.netlify.app)  
 📍 Rourkela, Odisha, India | Focused on secure, scalable systems with real-world impact.
 
 ---
