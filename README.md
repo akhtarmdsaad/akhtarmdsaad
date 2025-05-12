@@ -34,6 +34,7 @@ Razorpay API • Arduino • OpenCV • Linux • GitHub • Postman
 ✅ Open Source Contributor – [highlight.js](https://github.com/highlightjs/highlight.js)  
 ✅ Bug bounty: 3 high-impact Shopify reports within a week  
 ✅ Internship: Aurika Tech – Web + DevOps flow  
+✅ 150+ DSA problems solved
 ✅ Academic Gold Medalist – Guru Nanak Public School  
 ✅ Topped 12th board exam, qualified NEET, skipped 3 grades  
 ✅ Built YOLOv8 + Raspberry Pi trip counter with cloud deployment  
