@@ -6,7 +6,7 @@
 ---
 
 ## 🔭 What I'm Working On
-- 🕵️ **Bug bounty** reports on Shopify partners, including auth bypass,token privileges & API, full account takeover
+- 🕵️ **Bug bounty** including auth bypass,token privileges & API, full account takeover
 - 🚀 **AH Bricks** – Managing & growing my construction materials business
 - 🤝 Assisting multiple student teams with development & documentation
 - 📱 Exploring **React Native** for future mobile apps
